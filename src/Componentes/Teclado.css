@@ -1,0 +1,13 @@
+table {
+  background-color: black;
+
+  border-color: black;
+  border-style: solid;
+}
+Button {
+  width: 100px;
+}
+ 
+.Button {
+  width: 200px;
+}
