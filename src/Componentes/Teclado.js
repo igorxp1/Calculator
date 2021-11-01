@@ -160,9 +160,9 @@ export default function Teclado(props) {
                 animated
                 onClick={() => props.contar(true)}
               >
-                <Button.Content visible>Next</Button.Content>
+                <Button.Content visible>Fazer Conta</Button.Content>
                 <Button.Content hidden>
-                  <Icon name="chevron circle left" />
+                  =
                 </Button.Content>
               </Button>
             </td>
